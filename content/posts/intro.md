@@ -21,15 +21,20 @@ Personlamente, la cultura de un desarrollad@r de software tiene que ser uno de l
 
 Cada programador debería contar con los siguientes cualidades y/o valores:
 
-*Amor por la tecnología y sus alcances.
-*Imaginación.
-*Autodidacta.
-*Adaptación al cambio.
-*Paciencia.
-*Trabajo colaborativo.
-*Ética profesional.
+- Amor por la tecnología y sus alcances.
+- Imaginación.
+- Autodidacta.
+- Adaptación al cambio.
+- Paciencia.
+- Trabajo colaborativo.
+- Ética profesional.
 
 
 Diversos autores concluyen: 
 
 -Finalmente, el código es un recurso cultural, no trivial y solo instrumental, sino vinculado al cambio social, a los proyectos estéticos y a la relación de las personas con los ordenadores. En lugar de ser descartado como críptico e irrelevante para cuestiones humanas como el arte y la experiencia del usuario, el código debería ser valorado como texto con significado tanto para la máquina como para los humanos, algo que se produce y opera dentro de la cultura.
+
+N. Montfort, P. Baudoin, P. J. Bell et al. (2013). 10 PRINT CHR$(205.5+RND(1)); : GOTO 10 (pág. 8 y 262). Cambridge / Londres: The MIT Press.
+
+
+![Desarrollo de Software!](https://www.leydeconocimiento.org.ar/wp-content/uploads/2019/11/Ley-de-Promocion-del-Software.jpg)
