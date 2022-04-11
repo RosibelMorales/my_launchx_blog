@@ -9,13 +9,22 @@ menu:
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> Rosibel Morales Olivares.
+> | Ing. en Sistemas Computacionales.
+> | Puebla, Mx.
+> | 20 años.
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+Hey! Mi nombre es Rosibel Morales Olivares, estudio la carrera de Ing. en Sistemas Computacionales actualmente curso el 6to semestre.
+Me gusta mucho todo lo relacionado a la tecnología y sus aplicaciones. Compartir mis conocimientos por muy minímos que sean con mis
+compañeros de escuela o personas que los necesiten, el enseñar lo que sé resulta ser muy placentero para mí.
+
+Mis pasatiempos favoritos son:
+- Pasar tiempo con mi familia y mascotas.
+- Dormir.
+- Estar en redes sociales.
+- Escuchar música.
+- Ver series.
+- Escribir notas acerca de mi estado de ánimo o situaciones de mi día a día.
+- Jugar basquet.
+- Conocer a nuevas personas.
 
