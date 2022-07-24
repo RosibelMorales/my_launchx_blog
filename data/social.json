@@ -9,6 +9,11 @@
       "name": "github",
       "url": "https://github.com/RosibelMorales",
       "image": "images/social/github.svg"
+    },
+    {
+      "name": "linkedin",
+      "url": "https://www.linkedin.com/in/rosibel-morales-olivares-2b2357246/",
+      "image": "images/social/linkedin.svg"
     }
   ]
 }
